@@ -16,7 +16,7 @@ A special digital card to celebrate **Teachers' Day** and show appreciation for 
 
 ## Preview
 
-![Teachers' Day Card Preview](preview.png)  
+https://github.com/padiosjen03323-arch/message-card.git
 *A screenshot of the card interface.*
 
 ---
@@ -27,4 +27,5 @@ A special digital card to celebrate **Teachers' Day** and show appreciation for 
 
 ```bash
 https://github.com/padiosjen03323-arch/message-card.git
+
 
