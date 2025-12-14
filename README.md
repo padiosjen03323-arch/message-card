@@ -26,4 +26,5 @@ A special digital card to celebrate **Teachers' Day** and show appreciation for 
 1. **Download or clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/teachers-day-card.git
+https://github.com/padiosjen03323-arch/message-card.git
+
