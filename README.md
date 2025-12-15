@@ -1,7 +1,7 @@
 # Teacher’s Day Card 🎓💐
 
 ## 📌 Repository Link
-👉 https://github.com/padiosjen03323-arch/message-card
+👉  https://padiosjen03323-arch.github.io/message-card/
 
 ---
 
@@ -29,3 +29,4 @@ The **Teacher’s Day Card** project is a digital greeting card created to celeb
 1. Clone the repository:
    ```bash
    git clone https://github.com/padiosjen03323-arch/message-card.git
+
